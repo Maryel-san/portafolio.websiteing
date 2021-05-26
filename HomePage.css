@@ -1,0 +1,303 @@
+ /* Banner */
+ 
+ #banner0 {
+  background:black;
+  width: auto;
+  height:190px;
+  margin:auto;
+  margin-top: -10px;
+  
+}
+
+#banner1 {
+  background: rgb(19, 58, 109);
+  width:auto;
+  height:190px;
+  margin:auto;
+  margin-top: -10px;
+
+
+}
+
+#banner2 {
+  background: rgb(17, 72, 97);
+  width: auto;
+  height:190px;
+  margin:auto;
+  margin-top: -10px;
+
+}
+
+
+.titulo{
+  color: white;
+  font-size:auto;
+  text-align: center;
+  margin-left: 5%;
+  margin-bottom: 0%;
+  margin-top: 37.5px;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+}
+
+#pagina{
+  color: white;
+  font-size:40px;
+  text-align: center;
+  margin-left: 5%;
+  margin-top: 57.5px;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+}
+
+#correoBanner{
+  color: white;
+  font-size:auto;
+  text-align: center;
+  margin-left: 5%;
+  margin-bottom: 0%;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  float: none;
+}
+
+
+ /* contenido */
+ #text{
+  width: auto;
+  margin:auto;
+  margin-bottom: 0px; 
+  height: 676px;
+}
+
+ /*Pie de página*/
+#piedepagina{
+  text-align: center;
+  padding: 3px;
+  margin:auto;
+  background-color: purple;
+  color: white;
+  width:auto;
+  height:130px;
+  margin-bottom: -10px; 
+}
+
+ /* menu */
+
+#menu {
+  width: auto;
+  margin:auto;
+  margin-bottom: 0px; 
+  height: 37px;
+}
+
+#menu ul {
+  list-style:none;
+  margin:0;
+  padding: 0;
+  margin-left: none;
+  align-content: center;
+  
+
+ }
+ 
+ #menu ul li {
+  background-color:black;
+  width:475.9px;
+  
+ }
+ 
+ #menu ul a {
+  display:block;
+  color:#fff;
+  text-decoration:none;
+  font-weight:400;
+  font-size:15px;
+  padding:10px;
+  font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform:uppercase;
+  letter-spacing:6.9px;
+  text-align: center;
+  
+ }
+ 
+ #menu ul li {
+  position:relative;
+  float:left;
+  margin:0;
+  padding:0;
+ }
+ 
+ /* submenu */
+ 
+ #menu ul li:hover {
+  background:purple;
+ }
+
+ #menu ul li:active {
+  background:rgb(61, 0, 61);
+ }
+
+ #menu ul ul {
+  display:none;
+  position:absolute;
+  background:#eee;
+  padding:0;
+ }
+
+ #menu ul ul li {
+  float:none;
+  width:475.5px
+ }
+ 
+ #menu ul li:hover > ul {
+  display:block;
+ }
+
+  /* Links */
+ a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#banner11 {
+  background:black;
+  width: 450px;
+  height: 600px;;
+  margin:auto;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+
+#banner12 {
+  background:black;
+  width: 450px;
+  height: 600px;;
+  margin:auto;
+  margin-top: -600px;
+  margin-left: 490px;
+}
+
+
+#banner13 {
+  background:black;
+  width: 450px;
+  height: 600px;;
+  margin:auto;
+  margin-top: -600px;
+  margin-left: 970px;
+}
+
+#cine {
+  background:black;
+  width: 330px;
+  height: 400px;;
+  margin:auto;
+  margin-top: 100px;
+  margin-left: 10px;
+ 
+}
+
+#televission {
+  background:black;
+  width: 330px;
+  height: 400px;;
+  margin:auto;
+  margin-top: -400px;
+  margin-left: 370px;
+}
+
+#videogames {
+  background:black;
+  width: 330px;
+  height: 400px;;
+  margin:auto;
+  margin-top: -400px;
+  margin-left: 730px;
+}
+
+#publicidad {
+  background:black;
+  width: 330px;
+  height: 400px;;
+  margin:auto;
+  margin-top: -400px;
+  margin-left: 1090px;
+}
+#cine2 {
+  background:transparent;
+  width: 450px;
+  height: 600px;;
+  margin:auto;
+  margin-top: 100px;
+  margin-left: 10px;
+
+}  
+
+#cine3 {
+    background:transparent;
+    width: 450px;
+    height: 600px;;
+    margin:auto;
+    margin-top: -600px;
+    margin-left: 490px;
+  }
+  
+  
+  #cine4 {
+    background:transparent;
+    width: 450px;
+    height: 600px;;
+    margin:auto;
+    margin-top: -600px;
+    margin-left: 970px;
+  }
+
+#contacto {
+  background:transparent;
+  width: 1400px;
+  height: 600px;;
+  margin:auto;
+  margin-top: 100px;
+  margin-left: 80px;
+
+}  
+
+#cedula {
+  background:transparent;
+  width: 330px;
+  height: 250px;;
+  margin:auto;
+  margin-top: -140px;
+  margin-left: 80px;
+
+}  
+
+#info {
+  background:transparent;
+  width: 300;
+  height: 450px;;
+  margin:auto;
+  margin-top: -570px;
+  margin-left: 300px;
+
+}  
